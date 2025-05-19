@@ -5,4 +5,4 @@ function charcount(str){
     }
     return count;
 }
-console.log(charcount(maruthiprasd))
+console.log(charcount("maruthiprasd"))
